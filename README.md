@@ -1,2 +1,2 @@
 # C18
-https://github.com/AkChetti06/C18.git
+https://akchetti06.github.io/C18/index.html
